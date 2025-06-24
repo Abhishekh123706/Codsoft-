@@ -16,10 +16,9 @@ Performs basic operations: addition, subtraction, multiplication, and division.
 Two-player game using a 3x3 grid, with win/draw detection.
 
 ## 📽️ Demo Video
-
-[Paste your LinkedIn or YouTube video link here]
-
----
+1.https://www.linkedin.com/posts/abhishekh-mahato-b8617832a_codsoft-cpp-cplusplus-activity-7343325218406391809-mi3V?utm_source=share&utm_medium=member_android&rcm=ACoAAFL2X5YBvjvCT4m2UDr-VFTBt14WsoLyp9U
+2.https://www.linkedin.com/posts/abhishekh-mahato-b8617832a_codsoft-internship-cpp-activity-7343326146161192961-IvxL?utm_source=share&utm_medium=member_android&rcm=ACoAAFL2X5YBvjvCT4m2UDr-VFTBt14WsoLyp9U
+3.https://www.linkedin.com/posts/abhishekh-mahato-b8617832a_codsoft-cpp-cplusplus-activity-7343326717291159552-rvNH?utm_source=share&utm_medium=member_android&rcm=ACoAAFL2X5YBvjvCT4m2UDr-VFTBt14WsoLyp9U
 
 ## 📧 Connect with Me
 
